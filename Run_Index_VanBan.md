@@ -1,10 +1,10 @@
-\# RUN\_INDEX\_VANBAN
+\# RUN\_INDEX\_VANBAN — PRO VERSION
 
 
 
-\## 🎯 MỤC TIÊU
+\## 🎯 OBJECTIVE
 
-Xử lý văn bản pháp luật thành hệ thống logic + phục vụ triển khai thực tế.
+Convert Vietnamese legal documents into structured, actionable regulatory systems for real-world implementation.
 
 
 
@@ -14,29 +14,9 @@ Xử lý văn bản pháp luật thành hệ thống logic + phục vụ triển
 
 \## 📥 INPUT
 
-\- Văn bản pháp luật (PDF hoặc text)
+\- Legal document (PDF or text)
 
-\- Tên văn bản (ví dụ: ND\_94\_2026)
-
-
-
-\---
-
-
-
-\## ⚙️ PHƯƠNG PHÁP THỰC HIỆN
-
-
-
-\### STEP 1 – CHUNKING
-
-\- Tách văn bản thành các phần hợp lý
-
-\- Mỗi chunk chứa 3–5 Điều
-
-\- Giữ cấu trúc theo Chương
-
-\- Mỗi chunk phải độc lập logic
+\- Law identifier (e.g. ND\_94\_2026)
 
 
 
@@ -44,21 +24,17 @@ Xử lý văn bản pháp luật thành hệ thống logic + phục vụ triển
 
 
 
-\### STEP 2 – EXTRACT LOGIC
-
-Với mỗi chunk, trích xuất:
+\## ⚙️ EXECUTION ENGINE
 
 
 
-\- Licensing → điều kiện cấp phép
+\### STEP 1 — STRUCTURE RECOGNITION
 
-\- Compliance → nghĩa vụ tuân thủ
+\- Identify Chapters and Articles
 
-\- Operational → quy định vận hành
+\- Collapse into logical segments (3–5 Articles per unit)
 
-\- Revocation → thu hồi / xử phạt
-
-\- Data → dữ liệu / báo cáo
+\- Remove narrative duplication
 
 
 
@@ -66,65 +42,51 @@ Với mỗi chunk, trích xuất:
 
 
 
-\### STEP 3 – MERGE SYSTEM
-
-\- Gộp tất cả chunk
-
-\- Loại bỏ trùng lặp
-
-\- Xây dựng hệ thống:
+\### STEP 2 — SYSTEM EXTRACTION
 
 
 
-&#x20; - Core principles
-
-&#x20; - Licensing framework
-
-&#x20; - Compliance system
-
-&#x20; - Operational model
-
-&#x20; - Enforcement \& revocation
-
-&#x20; - Data \& reporting
+Extract ONLY system-level logic:
 
 
 
-\---
+\#### Licensing
+
+\- Who needs approval
+
+\- What conditions must be met
 
 
 
-\### STEP 4 – IMPLEMENTATION LAYER
+\#### Compliance
+
+\- Ongoing obligations
+
+\- Restrictions / prohibitions
 
 
 
-\#### Forms (Biểu mẫu)
+\#### Operation
 
-Xác định các loại:
+\- How activities are conducted
 
-\- Hồ sơ cấp phép
-
-\- Đơn / biểu mẫu
-
-\- Báo cáo
-
-\- Danh sách / checklist
+\- What processes must be followed
 
 
 
-\---
+\#### Enforcement
+
+\- Triggers for violation
+
+\- Penalty mechanisms
 
 
 
-\#### Process (Quy trình)
+\#### Data
 
-Xây dựng:
+\- Reporting requirements
 
-\- Quy trình cấp phép
-
-\- Quy trình vận hành
-
-\- Quy trình kiểm tra / thu hồi
+\- Monitoring systems
 
 
 
@@ -132,13 +94,19 @@ Xây dựng:
 
 
 
-\#### Risk \& Control
+\### STEP 3 — SYSTEM SYNTHESIS
 
-Xác định:
 
-\- Điểm rủi ro chính
 
-\- Điểm kiểm soát nội bộ
+Rebuild into a unified system:
+
+
+
+\- Remove duplication
+
+\- Standardize terminology
+
+\- Convert legal rules into structured logic
 
 
 
@@ -146,11 +114,109 @@ Xác định:
 
 
 
-\## 📤 OUTPUT FORMAT (BẮT BUỘC)
+\### STEP 4 — OPERATIONALIZATION (CRITICAL)
 
 
 
-Output MUST follow this structure exactly.
+Transform law → executable system
+
+
+
+\#### Define:
+
+
+
+\### 1. PROCESS FLOWS (Mandatory)
+
+Convert into step-by-step flows:
+
+
+
+\- Licensing flow
+
+\- Operational flow
+
+\- Monitoring / enforcement flow
+
+
+
+Format:
+
+
+
+Step 1 → Step 2 → Step 3 → Decision → Outcome
+
+
+
+\---
+
+
+
+\### 2. COMPLIANCE CHECKLIST (Mandatory)
+
+Create checklist format:
+
+
+
+\- Condition 1 ✅ / ❌
+
+\- Condition 2 ✅ / ❌
+
+\- …
+
+
+
+\---
+
+
+
+\### 3. FORMS \& DOCUMENTS
+
+
+
+Identify required:
+
+
+
+\- Applications
+
+\- Reports
+
+\- Registrations
+
+\- Certificates
+
+
+
+\---
+
+
+
+\### 4. RISK \& CONTROL
+
+
+
+Map:
+
+
+
+\- High-risk areas
+
+\- Control points (must enforce)
+
+\- Failure consequences
+
+
+
+\---
+
+
+
+\## 📤 OUTPUT FORMAT (STRICT)
+
+
+
+Output MUST follow exactly:
 
 
 
@@ -184,7 +250,9 @@ Output MUST follow this structure exactly.
 
 \## 2. CORE PRINCIPLES
 
-\- ...
+\- Max 5 bullet points
+
+\- High-level system rules only
 
 
 
@@ -202,19 +270,17 @@ Output MUST follow this structure exactly.
 
 
 
-\### 3.2 Licensing Requirements
+\### 3.2 Requirements
 
 \- ...
 
 
 
-\### 3.3 Licensing Process
+\### 3.3 Licensing Flow
 
-1\. ...
 
-2\. ...
 
-3\. ...
+Step 1 → Step 2 → Step 3 → Approval
 
 
 
@@ -226,15 +292,21 @@ Output MUST follow this structure exactly.
 
 
 
-\### 4.1 Ongoing Obligations
+\### 4.1 Obligations
 
 \- ...
 
 
 
-\### 4.2 Reporting \& Data
+\### 4.2 Compliance Checklist
 
-\- ...
+
+
+\- \[ ] Condition 1
+
+\- \[ ] Condition 2
+
+\- \[ ] Condition 3
 
 
 
@@ -246,15 +318,17 @@ Output MUST follow this structure exactly.
 
 
 
-\### 5.1 Training / Operation
+\### 5.1 Core Operations
 
 \- ...
 
 
 
-\### 5.2 Execution
+\### 5.2 Operational Flow
 
-\- ...
+
+
+Step 1 → Step 2 → Step 3 → Output
 
 
 
@@ -262,7 +336,7 @@ Output MUST follow this structure exactly.
 
 
 
-\## 6. ENFORCEMENT \& REVOCATION
+\## 6. ENFORCEMENT
 
 
 
@@ -272,7 +346,7 @@ Output MUST follow this structure exactly.
 
 
 
-\### 6.2 Penalties
+\### 6.2 Actions
 
 \- ...
 
@@ -282,25 +356,13 @@ Output MUST follow this structure exactly.
 
 
 
-\## 7. IMPLEMENTATION LAYER
+\## 7. DATA \& REPORTING
 
+\- Required data
 
+\- Reporting flow
 
-\### 7.1 Required Forms
-
-\- ...
-
-
-
-\### 7.2 Required Processes
-
-\- ...
-
-
-
-\### 7.3 Risk \& Control Points
-
-\- ...
+\- Monitoring systems
 
 
 
@@ -308,9 +370,23 @@ Output MUST follow this structure exactly.
 
 
 
-\## 8. NOTES
+\## 8. IMPLEMENTATION
+
+
+
+\### 8.1 Required Forms
 
 \- ...
+
+
+
+\### 8.2 Processes
+
+\- Licensing
+
+\- Operation
+
+\- Enforcement
 
 
 
@@ -318,11 +394,41 @@ Output MUST follow this structure exactly.
 
 
 
-\## 📁 FILE OUTPUT
+\### 8.3 Risk \& Control
 
 
 
-Save result as:
+| Risk | Control |
+
+|------|--------|
+
+| ...  | ...    |
+
+
+
+\---
+
+
+
+\## 9. NOTES
+
+\- Transition rules
+
+\- Replacement laws
+
+\- Special conditions
+
+
+
+\---
+
+
+
+\## 📁 OUTPUT FILE
+
+
+
+Save as:
 
 
 
@@ -334,19 +440,23 @@ Save result as:
 
 
 
-\## ⚠️ RULES
+\## ⚠️ RULES (MANDATORY)
 
 
 
-\- Use bullet points (no long paragraphs)
+\- NO long paragraphs
 
-\- Keep concise, system-level logic
+\- MAX 1 line per bullet
 
-\- Do NOT copy full legal text
+\- ALWAYS use flows (→)
 
-\- Always structure in Markdown
+\- ALWAYS include checklist
 
-\- Output must be ready to paste into GitHub
+\- ALWAYS include risk-control table
+
+\- NO raw legal text copy
+
+\- Format must be GitHub-ready markdown
 
 ``
 
