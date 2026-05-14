@@ -1,20 +1,10 @@
-\# RUN INDEX VĂN BẢN
+\# RUN\_INDEX\_VANBAN
 
 
 
-\## MỤC TIÊU
+\## 🎯 MỤC TIÊU
 
-Xử lý văn bản pháp luật thành hệ thống có thể áp dụng thực tế.
-
-
-
-\---
-
-
-
-\## INPUT
-
-\- Văn bản pháp luật (PDF / Text)
+Xử lý văn bản pháp luật thành hệ thống logic + phục vụ triển khai thực tế.
 
 
 
@@ -22,17 +12,11 @@ Xử lý văn bản pháp luật thành hệ thống có thể áp dụng thực
 
 
 
-\## QUY TRÌNH
+\## 📥 INPUT
 
+\- Văn bản pháp luật (PDF hoặc text)
 
-
-\### 1. CHUNKING
-
-\- Tách văn bản thành các phần logic
-
-\- Mỗi phần gồm 3–5 Điều
-
-\- Giữ nguyên cấu trúc Chương
+\- Tên văn bản (ví dụ: ND\_94\_2026)
 
 
 
@@ -40,21 +24,19 @@ Xử lý văn bản pháp luật thành hệ thống có thể áp dụng thực
 
 
 
-\### 2. EXTRACT LOGIC
-
-Trích xuất:
+\## ⚙️ PHƯƠNG PHÁP THỰC HIỆN
 
 
 
-\- Licensing (điều kiện cấp phép)
+\### STEP 1 – CHUNKING
 
-\- Compliance (nghĩa vụ tuân thủ)
+\- Tách văn bản thành các phần hợp lý
 
-\- Operational rules (hoạt động)
+\- Mỗi chunk chứa 3–5 Điều
 
-\- Revocation / penalties (thu hồi / xử phạt)
+\- Giữ cấu trúc theo Chương
 
-\- Data \& reporting (báo cáo / dữ liệu)
+\- Mỗi chunk phải độc lập logic
 
 
 
@@ -62,25 +44,49 @@ Trích xuất:
 
 
 
-\### 3. MERGE SYSTEM
+\### STEP 2 – EXTRACT LOGIC
+
+Với mỗi chunk, trích xuất:
+
+
+
+\- Licensing → điều kiện cấp phép
+
+\- Compliance → nghĩa vụ tuân thủ
+
+\- Operational → quy định vận hành
+
+\- Revocation → thu hồi / xử phạt
+
+\- Data → dữ liệu / báo cáo
+
+
+
+\---
+
+
+
+\### STEP 3 – MERGE SYSTEM
+
+\- Gộp tất cả chunk
 
 \- Loại bỏ trùng lặp
 
-\- Xây dựng hệ thống tổng thể:
+\- Xây dựng hệ thống:
 
 
 
-&#x20; - Core Principles
+&#x20; - Core principles
 
-&#x20; - Licensing Framework
+&#x20; - Licensing framework
 
-&#x20; - Compliance System
+&#x20; - Compliance system
 
-&#x20; - Operational Model
+&#x20; - Operational model
 
-&#x20; - Enforcement
+&#x20; - Enforcement \& revocation
 
-&#x20; - Data
+&#x20; - Data \& reporting
 
 
 
@@ -88,39 +94,51 @@ Trích xuất:
 
 
 
-\### 4. TRIỂN KHAI (IMPORTANT)
+\### STEP 4 – IMPLEMENTATION LAYER
 
 
+
+\#### Forms (Biểu mẫu)
+
+Xác định các loại:
+
+\- Hồ sơ cấp phép
+
+\- Đơn / biểu mẫu
+
+\- Báo cáo
+
+\- Danh sách / checklist
+
+
+
+\---
+
+
+
+\#### Process (Quy trình)
+
+Xây dựng:
+
+\- Quy trình cấp phép
+
+\- Quy trình vận hành
+
+\- Quy trình kiểm tra / thu hồi
+
+
+
+\---
+
+
+
+\#### Risk \& Control
 
 Xác định:
 
+\- Điểm rủi ro chính
 
-
-\#### Forms (biểu mẫu)
-
-\- hồ sơ cấp phép
-
-\- checklist
-
-\- báo cáo
-
-
-
-\#### Process (quy trình)
-
-\- cấp phép
-
-\- vận hành
-
-\- kiểm tra
-
-
-
-\#### Risk / Control
-
-\- điểm rủi ro
-
-\- điểm kiểm soát
+\- Điểm kiểm soát nội bộ
 
 
 
@@ -128,25 +146,11 @@ Xác định:
 
 
 
-\## OUTPUT
+\## 📤 OUTPUT FORMAT (BẮT BUỘC)
 
 
 
-\# Regulatory System
-
-
-
-\## Core Principles
-
-\## Licensing Framework
-
-\## Compliance System
-
-\## Operational Model
-
-\## Enforcement / Revocation
-
-\## Data \& Reporting
+Output MUST follow this structure exactly.
 
 
 
@@ -154,15 +158,195 @@ Xác định:
 
 
 
-\# Implementation
+\# {LAW\_NAME} – REGULATORY SYSTEM
 
 
 
-\## Required Forms
-
-\## Required Processes
-
-\## Risk \& Control Points
+\---
 
 
+
+\## 1. OVERVIEW
+
+\- Document:
+
+\- Scope:
+
+\- Effective Date:
+
+\- Authority:
+
+
+
+\---
+
+
+
+\## 2. CORE PRINCIPLES
+
+\- ...
+
+
+
+\---
+
+
+
+\## 3. LICENSING FRAMEWORK
+
+
+
+\### 3.1 Entities
+
+\- ...
+
+
+
+\### 3.2 Licensing Requirements
+
+\- ...
+
+
+
+\### 3.3 Licensing Process
+
+1\. ...
+
+2\. ...
+
+3\. ...
+
+
+
+\---
+
+
+
+\## 4. COMPLIANCE SYSTEM
+
+
+
+\### 4.1 Ongoing Obligations
+
+\- ...
+
+
+
+\### 4.2 Reporting \& Data
+
+\- ...
+
+
+
+\---
+
+
+
+\## 5. OPERATIONAL MODEL
+
+
+
+\### 5.1 Training / Operation
+
+\- ...
+
+
+
+\### 5.2 Execution
+
+\- ...
+
+
+
+\---
+
+
+
+\## 6. ENFORCEMENT \& REVOCATION
+
+
+
+\### 6.1 Triggers
+
+\- ...
+
+
+
+\### 6.2 Penalties
+
+\- ...
+
+
+
+\---
+
+
+
+\## 7. IMPLEMENTATION LAYER
+
+
+
+\### 7.1 Required Forms
+
+\- ...
+
+
+
+\### 7.2 Required Processes
+
+\- ...
+
+
+
+\### 7.3 Risk \& Control Points
+
+\- ...
+
+
+
+\---
+
+
+
+\## 8. NOTES
+
+\- ...
+
+
+
+\---
+
+
+
+\## 📁 FILE OUTPUT
+
+
+
+Save result as:
+
+
+
+/output/{LAW\_NAME}\_system.md
+
+
+
+\---
+
+
+
+\## ⚠️ RULES
+
+
+
+\- Use bullet points (no long paragraphs)
+
+\- Keep concise, system-level logic
+
+\- Do NOT copy full legal text
+
+\- Always structure in Markdown
+
+\- Output must be ready to paste into GitHub
+
+``
 
