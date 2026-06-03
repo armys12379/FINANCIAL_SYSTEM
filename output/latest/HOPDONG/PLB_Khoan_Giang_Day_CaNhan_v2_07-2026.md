@@ -1,14 +1,15 @@
-| **CÔNG TY CP ĐT XD TM CÁT TƯỜNG MINH** **TRUNG TÂM GDNN VÀ SHLX BÌNH THUẬN** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập – Tự do – Hạnh phúc** ───────────── |
+| **CTY CP ĐT XD TM CÁT TƯỜNG MINH** **TRUNG TÂM GDNN VÀ SHLX BÌNH THUẬN** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập – Tự do – Hạnh phúc** ───────────── |
 |:---|:---:|
 
 *Lâm Đồng, ngày … tháng … năm 20……*
 
 # PHỤ LỤC B — KHOÁN GIẢNG DẠY THỰC HÀNH LÁI XE
 ## Số: …/PLB-HTLK-CTM
-### Cá nhân không đăng ký kinh doanh — xe và nhiên liệu do Bên A cung cấp
 
-> **Kèm theo:** Hợp đồng Hợp tác Liên kết Đào tạo số: …/HĐHTLK-CTM ngày …/…/20……
-> **Phiên bản:** 2.0 *(đồng bộ Hợp đồng khung 07/2026)*
+> Cá nhân không đăng ký kinh doanh — xe và nhiên liệu do Bên A cung cấp
+
+| **Kèm theo: Hợp đồng Hợp tác Liên kết Đào tạo số: …/HĐHTLK-CTM ngày …/…/20……** |
+|:---|
 
 ────────────────────────────────────────────────────────────
 
@@ -38,20 +39,20 @@
 
 ## ĐIỀU 1. THÔNG TIN CÁC BÊN
 
-**Bên A** theo thông tin đã xác định tại Điều 1 Hợp đồng Hợp tác Liên kết Đào tạo số …/HĐHTLK-CTM (CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH — Trung tâm Giáo dục Nghề nghiệp và Sát hạch Lái xe Bình Thuận; MST: 3400991745).
+Bên A theo thông tin đã xác định tại Điều 1 Hợp đồng Hợp tác Liên kết Đào tạo số …/HĐHTLK-CTM (CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH — Trung tâm Giáo dục Nghề nghiệp và Sát hạch Lái xe Bình Thuận; MST: 3400991745).
 
-**Bên B — Cá nhân giáo viên liên kết:**
+Bên B — Cá nhân giáo viên liên kết:
 
 | | |
 |---|---|
 | **Họ và tên** | …………………………………………………………………… |
 | **Ngày sinh** | ……………/……………/…………… |
-| **Căn cước công dân số** | ……………………………… Cấp ngày: …………… Tại: …………… |
+| **Căn cước công dân số** | ……………………… Cấp ngày: …………… Tại: …………… |
 | **Mã số thuế cá nhân** | …………………………………………………………………… |
-| **Số tài khoản ngân hàng** | ……………………………… Tại ngân hàng: …………………… |
-| **Giấy chứng nhận giáo viên dạy thực hành số** | ……………………… Hạng: …… Hết hạn: …………… |
+| **Số tài khoản ngân hàng** | ……………………… Tại ngân hàng: …………………… |
+| **Giấy CN giáo viên dạy TH số** | ……………………… Hạng: …… Hết hạn: …………… |
 
-*Bên B xác nhận **không có đăng ký kinh doanh** tại thời điểm ký Phụ lục này. Nếu phát sinh đăng ký kinh doanh trong thời hạn Phụ lục, Bên B thông báo ngay bằng văn bản cho Bên A để chuyển sang Phụ lục C (khoán giảng dạy — hộ kinh doanh/cá nhân kinh doanh) và điều chỉnh cơ chế thuế tương ứng.*
+Bên B xác nhận **không có đăng ký kinh doanh** tại thời điểm ký Phụ lục này. Nếu phát sinh đăng ký kinh doanh trong thời hạn Phụ lục, Bên B thông báo ngay bằng văn bản cho Bên A để chuyển sang Phụ lục C và điều chỉnh cơ chế thuế tương ứng.
 
 ────────────────────────────────────────────────────────────
 
@@ -59,7 +60,7 @@
 
 ### 2.1. Phạm vi giảng dạy
 
-Bên B thực hiện giảng dạy **thực hành** lái xe các hạng sau:
+Bên B thực hiện giảng dạy thực hành lái xe các hạng sau:
 
 | | |
 |---|---|
@@ -68,7 +69,7 @@ Bên B thực hiện giảng dạy **thực hành** lái xe các hạng sau:
 ### 2.2. Yêu cầu thực hiện
 
 - Thực hiện đúng chương trình đào tạo theo Thông tư số 14/2025/TT-BXD và lịch phân công của Bên A;
-- **Xe tập lái và nhiên liệu do Bên A cung cấp và quản lý** — Bên B không được tự ý sử dụng xe ngoài lịch phân công;
+- Xe tập lái và nhiên liệu do Bên A cung cấp và quản lý — Bên B không được tự ý sử dụng xe ngoài lịch phân công;
 - Ghi nhật ký giảng dạy theo mẫu BM-07; cập nhật đầy đủ, trung thực dữ liệu đào tạo (DAT) theo quy định;
 - Duy trì giấy chứng nhận giáo viên dạy thực hành còn hiệu lực, đúng hạng giảng dạy, trong suốt thời gian thực hiện Phụ lục; thông báo ngay cho Bên A khi giấy chứng nhận bị thu hồi hoặc còn dưới 30 ngày hết hạn;
 - Không giao lại công việc cho bên thứ ba khi chưa có chấp thuận bằng văn bản của Bên A.
@@ -77,22 +78,20 @@ Bên B thực hiện giảng dạy **thực hành** lái xe các hạng sau:
 
 ## ĐIỀU 3. ĐƠN GIÁ KHOÁN
 
-3.1. Đơn giá tính trên **mỗi học viên hoàn thành thời lượng đào tạo theo chương trình và hoàn thành chạy dữ liệu đào tạo (DAT)** — không tính theo lương giờ hay lương tháng cố định.
+3.1. Đơn giá tính trên mỗi học viên hoàn thành thời lượng đào tạo theo chương trình và hoàn thành chạy dữ liệu đào tạo (DAT) — không tính theo lương giờ hay lương tháng cố định.
 
-| Hạng giấy phép lái xe | Đơn giá (đồng/học viên) |
+| **Hạng giấy phép lái xe** | **Đơn giá (đồng/học viên)** |
 |---|:---:|
 | Hạng B | ………………………………… |
 | Hạng C1 | ………………………………… |
-| Hạng C | ………………………………… |
-| Hạng D1 | ………………………………… |
-| Hạng D2 | ………………………………… |
-| Hạng D | ………………………………… |
+| Nâng hạng ……… | ………………………………… |
+| | |
 
-3.2. Đơn giá tại mục 3.1 là **thù lao khoán cho công giảng dạy**. Đơn giá này **chưa và không bao gồm**:
+3.2. Đơn giá tại mục 3.1 là thù lao khoán cho công giảng dạy. Đơn giá này chưa và không bao gồm:
 
-- **Chi phí nhiên liệu** — do Bên A cung cấp, quản lý và thanh toán **riêng biệt**, không gộp vào đơn giá khoán;
-- **Hoa hồng tuyển sinh** — chỉ áp dụng khi Bên B trực tiếp tuyển sinh và được chi trả theo Phụ lục A;
-- **Tiền thuê phương tiện** — chỉ áp dụng khi Bên B đưa xe vào hợp tác và được thanh toán theo Phụ lục F.
+- Chi phí nhiên liệu — do Bên A cung cấp, quản lý và thanh toán riêng biệt, không gộp vào đơn giá khoán;
+- Hoa hồng tuyển sinh — chỉ áp dụng khi Bên B trực tiếp tuyển sinh và được chi trả theo Phụ lục A;
+- Tiền thuê phương tiện — chỉ áp dụng khi Bên B đưa xe vào hợp tác và được thanh toán theo Phụ lục F.
 
 ────────────────────────────────────────────────────────────
 
@@ -108,29 +107,29 @@ Thanh toán thực hiện khi đủ đồng thời các điều kiện sau:
 ### 4.2. Tạm ứng
 
 - Bên B được đề nghị tạm ứng bằng văn bản để chuẩn bị điều kiện giảng dạy; mức và điều kiện theo từng đề nghị được Bên A phê duyệt;
-- Khoản tạm ứng được bù trừ vào thanh toán sau khi có biên bản nghiệm thu và **phải được quyết toán trong 05 (năm) ngày làm việc** kể từ ngày kết thúc khóa/đợt đào tạo, theo quy chế quản lý tạm ứng (TK 141) của Bên A.
+- Khoản tạm ứng được bù trừ vào thanh toán sau khi có biên bản nghiệm thu và phải được quyết toán trong 05 (năm) ngày làm việc kể từ ngày kết thúc khóa/đợt đào tạo, theo quy chế quản lý tạm ứng (TK 141) của Bên A.
 
 ### 4.3. Thời hạn và phương thức thanh toán
 
-- Bên A thanh toán trong **07 (bảy) ngày làm việc** kể từ khi đủ điều kiện theo mục 4.1;
-- Toàn bộ khoản thanh toán từ **5.000.000 (năm triệu) đồng** trở lên bắt buộc thực hiện bằng chuyển khoản ngân hàng theo Nghị định số 320/2025/NĐ-CP;
+- Bên A thanh toán trong 07 (bảy) ngày làm việc kể từ khi đủ điều kiện theo mục 4.1;
+- Toàn bộ khoản thanh toán từ 5.000.000 (năm triệu) đồng trở lên bắt buộc thực hiện bằng chuyển khoản ngân hàng theo Nghị định số 320/2025/NĐ-CP;
 - Số tiền Bên B thực nhận = tổng khoán − thuế thu nhập cá nhân đã khấu trừ theo Điều 5.
 
 ────────────────────────────────────────────────────────────
 
 ## ĐIỀU 5. NGHĨA VỤ THUẾ
 
-5.1. Do Bên B là **cá nhân không đăng ký kinh doanh**, Bên A thực hiện **khấu trừ thuế thu nhập cá nhân tại nguồn** theo quy định của Luật Thuế thu nhập cá nhân số 109/2025/QH15 và văn bản hướng dẫn hiện hành.
+5.1. Do Bên B là cá nhân không đăng ký kinh doanh, Bên A thực hiện khấu trừ thuế thu nhập cá nhân tại nguồn theo quy định của Luật Thuế thu nhập cá nhân số 109/2025/QH15 và văn bản hướng dẫn hiện hành.
 
-5.2. Mức khấu trừ là **10% trên mỗi lần chi trả từ 2.000.000 (hai triệu) đồng trở lên**.
+5.2. Mức khấu trừ là 10% trên mỗi lần chi trả từ 2.000.000 (hai triệu) đồng trở lên.
 
-5.3. Bên A cấp **chứng từ khấu trừ thuế thu nhập cá nhân** cho Bên B trong **10 (mười) ngày** kể từ ngày thanh toán. Bên B tự thực hiện quyết toán thuế thu nhập cá nhân năm theo quy định.
+5.3. Bên A cấp chứng từ khấu trừ thuế thu nhập cá nhân cho Bên B trong 10 (mười) ngày kể từ ngày thanh toán. Bên B tự thực hiện quyết toán thuế thu nhập cá nhân năm theo quy định.
 
 ────────────────────────────────────────────────────────────
 
 ## ĐIỀU 6. BẢN CHẤT QUAN HỆ HỢP ĐỒNG
 
-6.1. Phụ lục này là **hợp đồng dịch vụ dân sự** theo Điều 513 Bộ luật Dân sự số 91/2015/QH13 — **không phải hợp đồng lao động** theo Bộ luật Lao động số 45/2019/QH14.
+6.1. Phụ lục này là hợp đồng dịch vụ dân sự theo Điều 513 Bộ luật Dân sự số 91/2015/QH13 — không phải hợp đồng lao động theo Bộ luật Lao động số 45/2019/QH14.
 
 6.2. Các yếu tố xác nhận quan hệ dịch vụ, được duy trì liên tục trong thực tế vận hành:
 
@@ -160,9 +159,7 @@ Thanh toán thực hiện khi đủ đồng thời các điều kiện sau:
 |:---:|:---:|
 | *(Ký, đóng dấu)* | *(Ký và ghi rõ họ tên)* |
 | | |
-| | |
 | **Chức danh:** ………………………… | |
-| | |
 | | |
 | **Họ và tên:** ………………………… | ……………………………………… |
 
