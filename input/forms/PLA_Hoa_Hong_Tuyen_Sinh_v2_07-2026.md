@@ -1,8 +1,5 @@
-CÔNG TY CP ĐT XD TM CÁT TƯỜNG MINH
-TRUNG TÂM GDNN VÀ SHLX BÌNH THUẬN
-
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập – Tự do – Hạnh phúc
+| **CÔNG TY CP ĐT XD TM CÁT TƯỜNG MINH** **TRUNG TÂM GDNN VÀ SHLX BÌNH THUẬN** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập – Tự do – Hạnh phúc** ───────────── |
+|:---|:---:|
 
 *Lâm Đồng, ngày … tháng … năm 20……*
 
@@ -39,30 +36,53 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 ## ĐIỀU 2. MỨC HOA HỒNG TUYỂN SINH
 
-> *(Đơn vị: đồng/học viên nhập học. Mức cụ thể do Tổng Giám đốc phê duyệt tại Bảng định mức nội bộ — Bước 5.)*
+### 2.1. Bảng mức hoa hồng theo hạng và số phương tiện
 
-### 2.1. Hạng sơ cấp — theo bậc quy mô phương tiện
+*(Đơn vị: đồng/học viên nhập học)*
 
-| Hạng GPLX | 0 phương tiện | 01 phương tiện | 02 phương tiện | 03 phương tiện | ≥ 04 phương tiện |
-|---|:---:|:---:|:---:|:---:|:---:|
-| **Hạng B** | 1.500.000 | 1.600.000 | 1.700.000 | 1.800.000 | 2.000.000 |
-| **Hạng C1** | 2.000.000 | 2.300.000 | 2.500.000 | 2.500.000 | 2.500.000 |
+| **STT** | **Hạng** | **Số PT** | **Hoa hồng (TK 641)** |
+|:---:|:---:|:---:|---:|
+| 1 | B | 0 | 1.500.000 |
+| 2 | B | 1 | 1.600.000 |
+| 3 | B | 2 | 1.700.000 |
+| 4 | B | 3 | 1.800.000 |
+| 5 | B | ≥ 4 | 2.000.000 |
+| 6 | C1 | 0 | 2.000.000 |
+| 7 | C1 | 1 | 2.300.000 |
+| 8 | C1 | 2 | 2.500.000 |
+| 9 | B→C | 0 | 1.000.000 |
+| 10 | B→C | 1 | 1.000.000 |
+| 11 | C1→C | 0 | 1.000.000 |
+| 12 | C1→C | 1 | 2.000.000 |
+| 13 | C1→C | 2 | 3.000.000 |
+| 15 | B→D1 | 1 | 1.000.000 |
+| 16 | B→D1 | 2 | 2.000.000 |
+| 18 | B→D2 | 2 | 1.000.000 |
+| 20 | C1→D1 | 0 | 1.000.000 |
+| 21 | C1→D1 | 1 | 2.000.000 |
+| 22 | C1→D1 | 2 | 3.000.000 |
+| 24 | C1→D2 | 1 | 1.000.000 |
+| 25 | C1→D2 | 2 | 2.000.000 |
+| 26 | C→D1 | 0 | 1.000.000 |
+| 27 | C→D1 | 1 | 2.000.000 |
+| 28 | C→D1 | 2 | 3.000.000 |
+| 30 | C→D2 | 1 | 1.000.000 |
+| 31 | C→D2 | 2 | 2.000.000 |
+| 34 | C→D | 2 | 1.000.000 |
+| 35 | D1→D2 | 0 | 1.000.000 |
+| 36 | D1→D2 | 1 | 2.000.000 |
+| 37 | D1→D2 | 2 | 3.000.000 |
+| 39 | D1→D | 1 | 1.000.000 |
+| 40 | D1→D | 2 | 2.000.000 |
+| 41 | D2→D | 0 | 1.000.000 |
+| 42 | D2→D | 1 | 2.000.000 |
+| 43 | D2→D | 2 | 3.000.000 |
 
-### 2.2. Hạng nâng hạng — mức cố định theo hạng
-
-> *Hoa hồng nâng hạng = max (đơn giá giao khoán đối tác − mức khoán Trung tâm tự tuyển, 0). Do chênh lệch nhỏ, áp **mức cố định theo hạng**, không phân bậc theo số phương tiện; áp dụng cho đối tác có tuyển sinh.*
-
-| Mức hoa hồng | Các hạng nâng hạng áp dụng |
-|:---:|---|
-| **2.000.000** | C1→C · C1→D1 · C→D1 · D1→D2 · D2→D |
-| **1.000.000** | B→C · B→D1 · C1→D2 · C→D2 · D1→D |
-| **0** | B→D2 · C→D |
-
-### 2.3. Xác định số phương tiện
+### 2.2. Xác định số phương tiện
 
 Số phương tiện là số xe Bên B cam kết và bàn giao đưa vào khai thác hợp tác, được xác nhận tại Phụ lục F (cho thuê xe) hoặc Phụ lục D (đào tạo có phương tiện) kèm theo. Khi số phương tiện thực tế thay đổi trong kỳ, mức hoa hồng áp dụng theo bậc tương ứng kể từ kỳ tuyển sinh liền sau khi xác nhận thay đổi.
 
-### 2.4. Nguyên tắc bảo toàn tổng
+### 2.3. Nguyên tắc bảo toàn tổng
 
 Tổng đơn giá giao khoán cho mỗi học viên **không thay đổi** giữa các bậc. Khi mức hoa hồng (TK 641) thay đổi theo bậc, phần chênh lệch được điều chỉnh tương ứng vào khoán đào tạo/giảng dạy (TK 622) — Bên B nhận tổng giá trị như nhau, chỉ khác cơ cấu nội bộ. Tiền thuê phương tiện (nếu có) thỏa thuận và thanh toán **độc lập** theo Phụ lục F, không gộp với hoa hồng tuyển sinh.
 
