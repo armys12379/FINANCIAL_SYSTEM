@@ -1,5 +1,5 @@
 # QUY ĐỊNH FORMAT & VĂN PHONG TRÌNH BÀY HỢP ĐỒNG — CTM
-**Phiên bản 1.1 · 03/6/2026**
+**Phiên bản 1.2 · 03/6/2026**
 
 > **Áp dụng cho:** toàn bộ hợp đồng, phụ lục hợp đồng và văn bản điều chỉnh hợp đồng do CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH ban hành.
 > **Mục đích:** thống nhất bố cục, hình thức và văn phong pháp lý; bảo đảm hợp đồng đủ yếu tố pháp lý và nhất quán toàn hệ thống.
@@ -24,10 +24,10 @@
 
 Trình bày bằng **bảng 2 cột, cỡ chữ 12pt**, không kẻ viền hiển thị:
 
-**Cột trái — tên đơn vị (IN HOA, đậm):** viết **tắt cho đủ dòng** (gọn để mỗi dòng không bị tràn/xuống dòng xấu):
+**Cột trái — tên đơn vị (IN HOA, đậm):** viết **tắt cho đủ dòng**, **không dùng ký hiệu "&"**:
 ```
-CÔNG TY CP ĐT XD & TM CÁT TƯỜNG MINH
-TRUNG TÂM GDNN & SHLX BÌNH THUẬN
+CÔNG TY CP ĐT XD TM CÁT TƯỜNG MINH
+TRUNG TÂM GDNN VÀ SHLX BÌNH THUẬN
 ```
 
 **Cột phải — Quốc hiệu, Tiêu ngữ (căn giữa, đậm):**
@@ -37,9 +37,10 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ─────────────
 ```
 
-> ⚠️ **Phân biệt cách dùng tên công ty:**
-> - **Tại khối đầu trang (bảng đầu tiên):** dùng **dạng viết tắt** cho gọn, đủ dòng, cỡ 12pt — vd `CÔNG TY CP ĐT XD & TM CÁT TƯỜNG MINH`.
-> - **Tại thân văn bản** (mục Bên A, các điều khoản, chân văn bản): dùng **tên đầy đủ, không viết tắt** — `CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH`.
+> ⚠️ **Quy ước tên đơn vị:**
+> - **KHÔNG dùng ký hiệu "&"** ở bất kỳ đâu. Khi cần "và" thì viết chữ `VÀ` (vd `GDNN VÀ SHLX`); phần "Xây dựng Thương mại" viết liền `XD TM` (không có "và").
+> - **Khối đầu trang (bảng đầu tiên):** dùng **dạng viết tắt** cho gọn, đủ dòng, cỡ 12pt — `CÔNG TY CP ĐT XD TM CÁT TƯỜNG MINH`.
+> - **Thân văn bản** (mục Bên A, điều khoản, chân văn bản): dùng **tên đầy đủ** — `CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH`.
 >
 > Quốc hiệu IN HOA đậm; Tiêu ngữ chữ thường, đậm, có gạch ngang ngắn bên dưới.
 
@@ -86,7 +87,7 @@ Số: …/[Loại văn bản]-CTM
 
 - Dòng dẫn (in nghiêng): *Hôm nay, ngày … tháng … năm 20……, tại Lâm Đồng, chúng tôi gồm:*
 - **BÊN A** và **BÊN B** in đậm; mỗi bên ghi: tên/đơn vị · địa chỉ · MST/CCCD · người đại diện + chức danh.
-- Bên A mặc định là Trung tâm; người đại diện cao nhất: **Ông VŨ HỒNG PHONG — Tổng Giám đốc**.
+- Bên A mặc định là Trung tâm. **Trong mẫu hợp đồng, phần đại diện Bên A và chức danh để TRỐNG** (điền khi ký theo người được ủy quyền ký thực tế) — không in sẵn tên/chức danh.
 
 ────────────────────────────────────────────────────────────
 
@@ -126,14 +127,14 @@ Số: …/[Loại văn bản]-CTM
 
 - Dòng địa điểm – ngày (in nghiêng) phía trên: *Lâm Đồng, ngày … tháng … năm 20……*
 - Bảng **2 cột**: ĐẠI DIỆN BÊN A | ĐẠI DIỆN BÊN B (đậm, căn giữa).
-- Bên A: *(Ký, đóng dấu)* + chức danh + họ tên đậm. Bên B: *(Ký và ghi rõ họ tên)*.
+- Bên A: *(Ký, đóng dấu)* + **chức danh và họ tên để TRỐNG** (điền khi ký). Bên B: *(Ký và ghi rõ họ tên)*.
 
 ```
 | ĐẠI DIỆN BÊN A | ĐẠI DIỆN BÊN B |
 |:---:|:---:|
 | (Ký, đóng dấu) | (Ký và ghi rõ họ tên) |
-| TỔNG GIÁM ĐỐC | |
-| VŨ HỒNG PHONG | ……………………… |
+| Chức danh: ……………… | |
+| Họ và tên: ……………… | ……………………… |
 ```
 
 - **Tài liệu nội bộ có phê duyệt 3 cấp** dùng bảng **3 cột**: Người lập | Kế toán trưởng | Tổng Giám đốc.
@@ -194,10 +195,11 @@ Ví dụ:
 |---|---|
 | 03/6/2026 | v1.0 — Khởi tạo quy định format & văn phong trình bày hợp đồng CTM |
 | 03/6/2026 | v1.1 — Khối đầu trang (bảng đầu tiên) cỡ **12pt**, tên đơn vị **viết tắt cho đủ dòng**; phân biệt rõ: header dùng tên viết tắt, thân văn bản dùng tên đầy đủ. *Áp dụng cho tất cả hợp đồng và phụ lục ban hành từ nay về sau.* |
+| 03/6/2026 | v1.2 — **Không dùng ký hiệu "&"** (viết `VÀ` hoặc liền `XD TM`); **đại diện Bên A và chức danh để trống trong mẫu** (cả mục Bên A lẫn ô ký), điền khi ký thực tế. |
 
 > 📌 **Lưu ý thực hiện cho các hợp đồng sau:** Mọi hợp đồng/phụ lục soạn mới đều áp khối đầu trang 12pt + tên viết tắt theo Mục 2; thân văn bản dùng tên đầy đủ.
 
 ────────────────────────────────────────────────────────────
 
-*Quy định format & văn phong trình bày hợp đồng · Phiên bản 1.1 · CTM 2026*
+*Quy định format & văn phong trình bày hợp đồng · Phiên bản 1.2 · CTM 2026*
 *Quản lý: Kế toán trưởng (CFO) · Phê duyệt: TỔNG GIÁM ĐỐC — VŨ HỒNG PHONG*
