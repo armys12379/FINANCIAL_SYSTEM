@@ -1,5 +1,5 @@
 # QUY ĐỊNH FORMAT & VĂN PHONG TRÌNH BÀY HỢP ĐỒNG — CTM
-**Phiên bản 1.0 · 03/6/2026**
+**Phiên bản 1.1 · 03/6/2026**
 
 > **Áp dụng cho:** toàn bộ hợp đồng, phụ lục hợp đồng và văn bản điều chỉnh hợp đồng do CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH ban hành.
 > **Mục đích:** thống nhất bố cục, hình thức và văn phong pháp lý; bảo đảm hợp đồng đủ yếu tố pháp lý và nhất quán toàn hệ thống.
@@ -14,31 +14,33 @@
 | Khổ giấy | A4, dọc; lề trên 2,0cm · dưới 2,0cm · trái 3,0cm · phải 1,5–2,0cm |
 | Phông chữ | Times New Roman |
 | Cỡ chữ thân | 13pt (bảng có thể 11–12pt); dãn dòng 1,15–1,5 |
+| **Cỡ chữ khối đầu trang (bảng đầu tiên)** | **12pt** — tên đơn vị & Quốc hiệu/Tiêu ngữ |
 | Căn lề | Đều hai bên (justify) cho đoạn văn |
 | Đánh số trang | Góc dưới, từ trang 2 trở đi |
 
 ────────────────────────────────────────────────────────────
 
-## 2. KHỐI ĐẦU VĂN BẢN
+## 2. KHỐI ĐẦU VĂN BẢN (BẢNG ĐẦU TIÊN)
 
-Bố cục **2 cột** trên cùng:
+Trình bày bằng **bảng 2 cột, cỡ chữ 12pt**, không kẻ viền hiển thị:
 
-**Cột trái (tên đơn vị — IN HOA, đậm):**
+**Cột trái — tên đơn vị (IN HOA, đậm):** viết **tắt cho đủ dòng** (gọn để mỗi dòng không bị tràn/xuống dòng xấu):
 ```
-CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG
-THƯƠNG MẠI CÁT TƯỜNG MINH
-TRUNG TÂM GIÁO DỤC NGHỀ NGHIỆP
-VÀ SÁT HẠCH LÁI XE BÌNH THUẬN
+CÔNG TY CP ĐT XD & TM CÁT TƯỜNG MINH
+TRUNG TÂM GDNN & SHLX BÌNH THUẬN
 ```
 
-**Cột phải (Quốc hiệu — Tiêu ngữ, căn giữa):**
+**Cột phải — Quốc hiệu, Tiêu ngữ (căn giữa, đậm):**
 ```
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
 ─────────────
 ```
 
-> ⚠️ **Tên công ty viết đầy đủ, KHÔNG dùng ký hiệu "&"** — đúng: *CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH*. Không viết tắt "CP ĐT XD & TM" trong văn bản chính thức.
+> ⚠️ **Phân biệt cách dùng tên công ty:**
+> - **Tại khối đầu trang (bảng đầu tiên):** dùng **dạng viết tắt** cho gọn, đủ dòng, cỡ 12pt — vd `CÔNG TY CP ĐT XD & TM CÁT TƯỜNG MINH`.
+> - **Tại thân văn bản** (mục Bên A, các điều khoản, chân văn bản): dùng **tên đầy đủ, không viết tắt** — `CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH`.
+>
 > Quốc hiệu IN HOA đậm; Tiêu ngữ chữ thường, đậm, có gạch ngang ngắn bên dưới.
 
 ────────────────────────────────────────────────────────────
@@ -191,8 +193,11 @@ Ví dụ:
 | Ngày | Nội dung |
 |---|---|
 | 03/6/2026 | v1.0 — Khởi tạo quy định format & văn phong trình bày hợp đồng CTM |
+| 03/6/2026 | v1.1 — Khối đầu trang (bảng đầu tiên) cỡ **12pt**, tên đơn vị **viết tắt cho đủ dòng**; phân biệt rõ: header dùng tên viết tắt, thân văn bản dùng tên đầy đủ. *Áp dụng cho tất cả hợp đồng và phụ lục ban hành từ nay về sau.* |
+
+> 📌 **Lưu ý thực hiện cho các hợp đồng sau:** Mọi hợp đồng/phụ lục soạn mới đều áp khối đầu trang 12pt + tên viết tắt theo Mục 2; thân văn bản dùng tên đầy đủ.
 
 ────────────────────────────────────────────────────────────
 
-*Quy định format & văn phong trình bày hợp đồng · Phiên bản 1.0 · CTM 2026*
+*Quy định format & văn phong trình bày hợp đồng · Phiên bản 1.1 · CTM 2026*
 *Quản lý: Kế toán trưởng (CFO) · Phê duyệt: TỔNG GIÁM ĐỐC — VŨ HỒNG PHONG*
