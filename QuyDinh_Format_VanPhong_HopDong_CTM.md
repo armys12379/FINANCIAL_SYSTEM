@@ -1,5 +1,5 @@
 # QUY ĐỊNH FORMAT & VĂN PHONG TRÌNH BÀY HỢP ĐỒNG — CTM
-**Phiên bản 1.2 · 03/6/2026**
+**Phiên bản 1.3 · 04/6/2026**
 
 > **Áp dụng cho:** toàn bộ hợp đồng, phụ lục hợp đồng và văn bản điều chỉnh hợp đồng do CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH ban hành.
 > **Mục đích:** thống nhất bố cục, hình thức và văn phong pháp lý; bảo đảm hợp đồng đủ yếu tố pháp lý và nhất quán toàn hệ thống.
@@ -14,7 +14,7 @@
 | Khổ giấy | A4, dọc; lề trên 2,0cm · dưới 2,0cm · trái 3,0cm · phải 1,5–2,0cm |
 | Phông chữ | Times New Roman |
 | Cỡ chữ thân | 13pt (bảng có thể 11–12pt); dãn dòng 1,15–1,5 |
-| **Cỡ chữ khối đầu trang (bảng đầu tiên)** | **12pt** — tên đơn vị & Quốc hiệu/Tiêu ngữ |
+| **Khối đầu trang (bảng đầu tiên)** | **Chèn hình ảnh chuẩn** `Header_HopDong_CTM.png` khi xuất Word (xem Mục 2) |
 | Căn lề | Đều hai bên (justify) cho đoạn văn |
 | Đánh số trang | Góc dưới, từ trang 2 trở đi |
 
@@ -22,27 +22,24 @@
 
 ## 2. KHỐI ĐẦU VĂN BẢN (BẢNG ĐẦU TIÊN)
 
-Trình bày bằng **bảng 2 cột, cỡ chữ 12pt**, không kẻ viền hiển thị:
+Khi **xuất bản Word**, khối đầu trang được trình bày bằng **hình ảnh chuẩn** (thay cho bảng text) để bảo đảm bố cục 2 cột, kiểu chữ và gạch chân đồng nhất tuyệt đối giữa các hợp đồng:
 
-**Cột trái — tên đơn vị (IN HOA, đậm):** viết **tắt cho đủ dòng**, **không dùng ký hiệu "&"**:
-```
-CÔNG TY CP ĐT XD TM CÁT TƯỜNG MINH
-TRUNG TÂM GDNN VÀ SHLX BÌNH THUẬN
-```
+![Khối đầu trang hợp đồng CTM](Header_HopDong_CTM.png)
 
-**Cột phải — Quốc hiệu, Tiêu ngữ (căn giữa, đậm):**
-```
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập – Tự do – Hạnh phúc
-─────────────
-```
+> **File hình chuẩn:** `Header_HopDong_CTM.png` — chèn vào đầu mỗi hợp đồng/phụ lục khi xuất Word, căn theo chiều ngang trang, **thay cho bảng text** khối đầu trang.
 
-> ⚠️ **Quy ước tên đơn vị:**
-> - **KHÔNG dùng ký hiệu "&"** ở bất kỳ đâu. Khi cần "và" thì viết chữ `VÀ` (vd `GDNN VÀ SHLX`); phần "Xây dựng Thương mại" viết liền `XD TM` (không có "và").
-> - **Khối đầu trang (bảng đầu tiên):** dùng **dạng viết tắt** cho gọn, đủ dòng, cỡ 12pt — `CÔNG TY CP ĐT XD TM CÁT TƯỜNG MINH`.
-> - **Thân văn bản** (mục Bên A, điều khoản, chân văn bản): dùng **tên đầy đủ** — `CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH`.
->
-> Quốc hiệu IN HOA đậm; Tiêu ngữ chữ thường, đậm, có gạch ngang ngắn bên dưới.
+**Nội dung hình** *(để đối chiếu — KHÔNG gõ lại bằng text trong bản Word)*:
+
+| Cột trái — tên đơn vị (IN HOA, đậm, gạch chân) | Cột phải — Quốc hiệu · Tiêu ngữ (căn giữa, đậm, gạch chân) |
+|---|---|
+| CTY CP ĐT XD TM CÁT TƯỜNG MINH <br> TT GDNN VÀ SHLX BÌNH THUẬN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br> Độc lập – Tự do – Hạnh phúc |
+
+> ⚠️ **Quy ước khối đầu trang:**
+> - **Khi xuất Word:** chèn **một hình ảnh chuẩn duy nhất** (`Header_HopDong_CTM.png`) cho mọi hợp đồng/phụ lục — không gõ text khối đầu trang.
+> - **Khi soạn bản thảo `.md` để duyệt nội dung:** được phép dùng bảng text khối đầu trang (cho dễ đọc/chỉnh); chỉ khi xuất Word mới thay bằng hình ảnh chuẩn.
+> - **Thân văn bản** (mục Bên A, điều khoản, chân văn bản) vẫn dùng **tên đầy đủ**: `CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG THƯƠNG MẠI CÁT TƯỜNG MINH`.
+> - **KHÔNG dùng ký hiệu "&"** ở bất kỳ đâu (giữ nguyên quy ước cũ): viết chữ `VÀ` (vd `GDNN VÀ SHLX`); phần "Xây dựng Thương mại" viết liền `XD TM`.
+> - Khi cần đổi tên đơn vị/địa danh hành chính: **cập nhật lại file hình chuẩn**, không sửa bằng text rời trong từng hợp đồng.
 
 ────────────────────────────────────────────────────────────
 
@@ -185,7 +182,7 @@ Ví dụ:
 ```
 
 - Bản thảo căn chỉnh nội dung: xuất `.md` trước để duyệt.
-- Bản chính thức: xuất `.docx` đúng format Mục 1–10 sau khi duyệt.
+- Bản chính thức: xuất `.docx` đúng format Mục 1–10 sau khi duyệt; khối đầu trang chèn hình ảnh chuẩn theo Mục 2.
 
 ────────────────────────────────────────────────────────────
 
@@ -196,10 +193,11 @@ Ví dụ:
 | 03/6/2026 | v1.0 — Khởi tạo quy định format & văn phong trình bày hợp đồng CTM |
 | 03/6/2026 | v1.1 — Khối đầu trang (bảng đầu tiên) cỡ **12pt**, tên đơn vị **viết tắt cho đủ dòng**; phân biệt rõ: header dùng tên viết tắt, thân văn bản dùng tên đầy đủ. *Áp dụng cho tất cả hợp đồng và phụ lục ban hành từ nay về sau.* |
 | 03/6/2026 | v1.2 — **Không dùng ký hiệu "&"** (viết `VÀ` hoặc liền `XD TM`); **đại diện Bên A và chức danh để trống trong mẫu** (cả mục Bên A lẫn ô ký), điền khi ký thực tế. |
+| 04/6/2026 | **v1.3 — Mục 2 (khối đầu trang):** khi xuất Word, **chèn hình ảnh chuẩn `Header_HopDong_CTM.png`** thay cho bảng text, bảo đảm bố cục/kiểu chữ/gạch chân đồng nhất. Bản thảo `.md` vẫn được dùng bảng text; thân văn bản giữ tên đầy đủ. *Chỉ điều chỉnh duy nhất khối đầu trang — các mục khác giữ nguyên.* |
 
-> 📌 **Lưu ý thực hiện cho các hợp đồng sau:** Mọi hợp đồng/phụ lục soạn mới đều áp khối đầu trang 12pt + tên viết tắt theo Mục 2; thân văn bản dùng tên đầy đủ.
+> 📌 **Lưu ý thực hiện cho các hợp đồng sau:** Khi xuất Word, chèn hình ảnh chuẩn khối đầu trang theo Mục 2; thân văn bản dùng tên đầy đủ. Mọi hợp đồng/phụ lục soạn mới đều áp thống nhất.
 
 ────────────────────────────────────────────────────────────
 
-*Quy định format & văn phong trình bày hợp đồng · Phiên bản 1.2 · CTM 2026*
+*Quy định format & văn phong trình bày hợp đồng · Phiên bản 1.3 · CTM 2026*
 *Quản lý: Kế toán trưởng (CFO) · Phê duyệt: TỔNG GIÁM ĐỐC — VŨ HỒNG PHONG*
