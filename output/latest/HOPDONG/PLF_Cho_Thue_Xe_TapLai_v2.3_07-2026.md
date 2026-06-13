@@ -9,9 +9,7 @@
 
 > **Kèm theo:** Hợp đồng HTLK số: …/HĐHTLK-CTM ngày …/…/20……
 > **Vai trò áp dụng:** ĐTCX — Cung cấp xe tập lái theo hợp đồng thuê tài sản
-> **Phiên bản:** 2.2 · 07/2026 *(cập nhật căn cứ Luật Quản lý thuế 108/2025 và Luật 149/2025; bổ sung thông tin Bên A)*
-
-> ⚠️ **Kiêm nhiệm:** Nếu Bên B đồng thời là giáo viên liên kết / văn phòng tuyển sinh giảng dạy thực hành trên chính xe này, hai bên xác định và ghi nhận phương án xử lý phù hợp trước khi ký Phụ lục, để kiểm soát rủi ro kiêm nhiệm.
+> **Phiên bản:** 2.3 · 07/2026 *(cập nhật cơ chế thuế cá nhân cho thuê tài sản theo tình trạng đăng ký kê khai; bỏ ghi chú kiêm nhiệm khỏi bản ký)*
 
 ────────────────────────────────────────────────────────────
 
@@ -141,11 +139,12 @@
 
 Tiền thuê xe thuộc nhóm ngành **"Cho thuê tài sản"** *(tỷ lệ % theo Thông tư số 18/2026/TT-BTC, sửa đổi bởi Thông tư số 50/2026/TT-BTC)*. Nghĩa vụ thuế xác định theo tư cách pháp lý của Bên B và **ngưỡng doanh thu năm**:
 
-| Tư cách pháp lý | Ngưỡng & nghĩa vụ thuế | Người kê khai/nộp | Chứng từ |
+| Tư cách pháp lý | Nghĩa vụ thuế | Người kê khai/nộp | Chứng từ |
 |---|:---|:---:|---|
-| Cá nhân không ĐKKD — DT năm **≤ 500 triệu** | **Không chịu thuế** *(ngưỡng 500tr — Luật GTGT 149/2025)* | — | Bản cam kết doanh thu năm |
-| Cá nhân không ĐKKD — DT năm **> 500 triệu** | **GTGT 5% + TNCN 5%** *(cho thuê tài sản)* — Bên A khai thay, nộp thay hoặc cá nhân tự kê khai | Bên A (khai thay) / Bên B | Chứng từ kê khai cho thuê tài sản |
-| HKD / CNKD — DT năm **≤ 1 tỷ** | **Không chịu thuế** GTGT, TNCN *(ngưỡng 1 tỷ — NĐ 141/2026)* | — | Bản cam kết doanh thu năm + Bảng kê thay hóa đơn |
+| Cá nhân không ĐKKD — **không đăng ký kê khai cho thuê tài sản** | **Khấu trừ 10% tại nguồn** | Bên A | Chứng từ khấu trừ |
+| Cá nhân không ĐKKD — **có đăng ký kê khai tài sản cho thuê**, DT năm **< 500 triệu** | **Không khấu trừ** | — | Bản cam kết doanh thu năm |
+| Cá nhân không ĐKKD — **có đăng ký kê khai tài sản cho thuê**, DT năm **≥ 500 triệu** | **Khấu trừ theo quy định** | Bên A khai thay / Bên B | Chứng từ kê khai cho thuê tài sản |
+| HKD / CNKD — DT năm **≤ 1 tỷ** | **Không chịu thuế** GTGT, TNCN | — | Bản cam kết doanh thu năm + Bảng kê thay hóa đơn |
 | HKD / CNKD — DT năm **> 1 tỷ** | **GTGT 5% + TNCN 5% = 10%** — tự nộp | Bên B | HĐĐT có mã CQT *(Điều 26 Luật 108/2025)* |
 | Pháp nhân | GTGT theo thuế suất; TNDN tự nộp | Bên B | HĐĐT GTGT bắt buộc |
 
@@ -195,5 +194,5 @@ Bản chất giao dịch **cho thuê tài sản** là căn cứ xác định ngh
 
 ────────────────────────────────────────────────────────────
 
-*PL F · Cung cấp phương tiện · Cho thuê xe tập lái · Phiên bản 2.2 · CTM 07/2026*
+*PL F · Cung cấp phương tiện · Cho thuê xe tập lái · Phiên bản 2.3 · CTM 07/2026*
 *Căn cứ: BLDS 91/2015/QH13 (Điều 472–478); BLLĐ 45/2019/QH14; Luật QLT 108/2025/QH15 (Điều 11, 26); Luật GTGT 48/2024/QH15 (sửa bởi Luật 90/2025/QH15 và Luật 149/2025/QH15); Luật TNCN 109/2025/QH15 (Điều 25); NĐ 68/2026/NĐ-CP sửa bởi NĐ 141/2026/NĐ-CP; NĐ 320/2025/NĐ-CP; NĐ 94/2026/NĐ-CP; TT 18/2026/TT-BTC sửa bởi TT 50/2026/TT-BTC*
